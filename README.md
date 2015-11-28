@@ -1,6 +1,6 @@
 # Description
 
-This is a simple webpack-webpack boilerplate that can be used as a quick prototype without having to set everything up frome scratch everytime. 
+This is a simple react-webpack boilerplate that can be used as a quick prototype without having to set everything up frome scratch everytime. 
 
 This boilerplate uses react version 0.14.X, ECMASCRIPT 2016 (ES6), react-router, react-bootstrap, and Webpack as the module bundler.
 
